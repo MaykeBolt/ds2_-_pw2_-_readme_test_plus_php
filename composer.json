@@ -1,0 +1,10 @@
+{
+    "name": "admin/pw2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Pw2\\": "src/"
+        }
+    },
+    "require": {}
+}
