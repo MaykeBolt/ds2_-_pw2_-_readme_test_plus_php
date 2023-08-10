@@ -1,2 +1,12 @@
 # ds2_-_pw2_-_readme_test_plus_php
-<span style="color:red">*Referente a aula do dia 10/08/2023 de Programação Web II.*</span> 
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
+# TODOs:
+
+- <r>TODO:</r> Important thing to do
+- <o>TODO:</o> Less important thing to do
+- <g>DONE:</g> Breath deeply and improve karma
