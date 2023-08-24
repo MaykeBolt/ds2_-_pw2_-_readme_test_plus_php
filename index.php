@@ -2,7 +2,7 @@
 <html>
 <body>
 <?php
-echo("<body style='background-image: url(img/radicalcity.png); background-size: 100% 100%; background-attachment: fixed;'>");
+echo("<body style='background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(img/radicalcity.png); background-size: 100% 100%; background-attachment: fixed;'>");
 echo("<style> .osttxt {font-size: 20px; padding-left: 2%; color: white; font-family: Geneva} embed {border: 2px white solid;} </style>");
 echo("<h1 style='text-align: center'>{<span style='color: blue'>Musicas do </span><span style='color: yellow'>Sonic</span> <span style='color: red'>R</span>}</h1>");
 
